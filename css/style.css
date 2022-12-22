@@ -21,3 +21,9 @@ h6 {
 p {
   margin: 0;
 }
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
